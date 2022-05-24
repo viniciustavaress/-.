@@ -1,4 +1,3 @@
-/* CSS reset */
 *, *:before, *:after { 
   margin:0;
   padding:0;
@@ -46,6 +45,7 @@ h1:after{
 p{
   margin-bottom:15px;
 }
+
 p:first-child{
   margin: 0px;
 }
